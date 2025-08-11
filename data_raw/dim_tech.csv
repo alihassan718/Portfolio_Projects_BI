@@ -1,0 +1,6 @@
+tech,type
+Gas_Boiler,fossil
+Oil_Boiler,fossil
+Heat_Pump,renewable
+Solar_Thermal,renewable
+Biomass_Boiler,renewable
