@@ -1,7 +1,4 @@
 
-# Power BI Portfolio Projects
-
-This repository contains my Power BI dashboards and reports developed as part of a 2-week intensive sprint to achieve job-ready skills in Business Intelligence and Data Analytics.
 
 ## Projects Overview
 
