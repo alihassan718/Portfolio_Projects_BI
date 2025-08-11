@@ -57,9 +57,3 @@ README.md         -> Project documentation
 
 ---
 
-## 📬 Contact
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn URL]
-- **Portfolio**: [Your Portfolio Website]
-
